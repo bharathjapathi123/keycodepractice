@@ -25,7 +25,7 @@ This project detects the keys pressed by the user and displays their correspondi
 
 
 ## 📂 Project Structure
-```text
+text
 index.html
 keycodepractice.css
 keycodepractice.js
